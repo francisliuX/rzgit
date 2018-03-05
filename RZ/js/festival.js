@@ -1,0 +1,3 @@
+$(()=>{
+    $.get("data/getfestival.php")
+})
